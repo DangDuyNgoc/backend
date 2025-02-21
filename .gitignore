@@ -1,0 +1,11 @@
+# connect mongodb atlas
+# how to get SMTP_PASSWORD: 
+security -> search "app passwords" -> create 
+
+# Sự khác biệt với expires:
+# expires là thời điểm cố định (dựa trên thời gian cụ thể).
+# maxAge là thời gian tương đối (tính từ thời điểm hiện tại).
+
+
+/node_modules
+.env
