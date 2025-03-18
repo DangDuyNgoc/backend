@@ -16,6 +16,7 @@ const app = express();
 
 connectDB();
 
+
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
@@ -26,7 +27,15 @@ app.use(express.json());
 app.use(cookieParser());
 
 app.get("/", (req, res) => {
-  res.send("API Working");
+  res.send("API Working!");
+});
+
+app.get("/home", (req, res) => {
+  res.send("<h1>This is Home page</h1>");
+});
+
+app.get("/about", (req, res) => {
+  res.send("<h1>This is About page</h1>");
 });
 
 app.use("/api/user", userRoute);
