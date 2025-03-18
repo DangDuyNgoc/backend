@@ -1,0 +1,20 @@
+[33mcommit df4565897f83b447793f9aa5151c0d25d3ff7995[m[33m ([m[1;36mHEAD -> [m[1;32mtranduc[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 030e565 56f32cc
+Author: TranVanDuc <97791161+DangDuyNgoc@users.noreply.github.com>
+Date:   Fri Feb 21 15:42:19 2025 +0700
+
+    Merge pull request #1 from DangDuyNgoc/tranduc
+    
+    copy active mail
+
+[33mcommit 56f32ccb9740e38a044f87ce63330199502b5654[m[33m ([m[1;31morigin/tranduc[m[33m)[m
+Author: hackTran <ductv.21it@vku.udn.vn>
+Date:   Fri Feb 21 15:29:54 2025 +0700
+
+    copy active mail
+
+[33mcommit 030e565352e41010bb69b5ae4ff4c362c70c9080[m[33m ([m[1;32mmaster[m[33m)[m
+Author: hackTran <ductv.21it@vku.udn.vn>
+Date:   Fri Feb 21 15:18:12 2025 +0700
+
+    push code
